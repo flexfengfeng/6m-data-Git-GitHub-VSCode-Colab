@@ -1,6 +1,6 @@
 ## Git, GitHub, VS Code & Google Colab for Data Science
 
-**Duration:** 1.5 hours (60 minutes)  
+**Duration:** 1.5 hours (90 minutes)  
 **Setting:** Classroom with hands-on practice  
 **Platforms:** Mac or Windows  
 **Goal:** Build confidence using Git and GitHub to save and share your work — no coding experience needed
